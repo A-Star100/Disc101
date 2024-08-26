@@ -1,4 +1,4 @@
-# Disc101
+# DiscDriveStuff
 A collection of 2 Mac apps. One can create disc images, and the other can burn discs.
 
 # How to open software for first time  
