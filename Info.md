@@ -1,4 +1,4 @@
-# How to open software for first time**  
+# How to open software for first time  
 Control-click/double-click the app icon. Then click "Open". Click "Open"
 under the alert box. After that, the software will open just like any
 authorized app on your Mac.  
